@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+.env/
+*.env
+
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore Docker-related files
+Dockerfile
+.dockerignore
